@@ -36,12 +36,14 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description"> LONG_DESCRIPTION </meta>
+		<dc:description id="description">A Russian officer battles disillusionment and unrequited love.</dc:description>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;At the young age of twenty-two Sublieutenant Romashov has become an officer, but he’s already disillusioned with army life in the middle of nowhere, and the brutish and blood-thirsty natures of his commanders and peers. The only thing keeping him from outright depression is his growing infatuation with the wife of a fellow officer; an infatuation which, half-returned, leads inevitably towards the titular subject.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Duel&lt;/i&gt; is regarded as the highlight of Kuprin’s bibliography and was praised by famous Russian authors of the period including Chekhov, Gorky, Bunin and Tolstoy. It was published in 1905 in the middle of the failure of the Russian army in the Russo-Japanese war and widespread social unrest. Kuprin himself had military experience as a lieutenant, which shines through in the novel’s vivid depictions of the minutiae of officer life. &lt;i&gt;The Duel&lt;/i&gt; was later adapted for both film and television in Russia. This edition is based on the 1916 translation.&lt;/p&gt;
+		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/44117</dc:source>
 		<dc:source>https://archive.org/details/duelkuprin00kupriala</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Duel_(Kuprin_novel)</meta>
@@ -51,7 +53,7 @@
 		<meta property="se:name.person.full-name" refines="#author">Aleksandr Ivanovich Kuprin</meta>
 		<meta property="alternate-script" refines="#author" xml:lang="ru">Алекса́ндр Ива́нович Купри́н</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Aleksandr_Kuprin</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">AUTHOR_NACOAF_URL</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n50058266</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">George Allen &amp; Unwin</dc:contributor>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/Allen_%26_Unwin#George_Allen_%26_Unwin_in_the_UK</meta>
