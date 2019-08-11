@@ -59,10 +59,12 @@
 		<meta property="display-seq" refines="#translator">1</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URL</meta>
+		<dc:contributor id="artist">Ilya Repin</dc:contributor>
+		<meta property="file-as" refines="#artist">Repin, Ilya</meta>
+		<meta property="se:name.person.full-name" refines="#artist">Ilya Yefimovich Repin</meta>
+		<meta property="alternate-script" refines="#artist" xml:lang="ru">Илья́ Ефи́мович Ре́пин</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Ilya_Repin</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79075231</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">sp1nd</dc:contributor>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
