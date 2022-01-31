@@ -2,9 +2,9 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 header p{
+	margin-bottom: 1em;
 	text-align: initial;
 	text-indent: 0;
-	margin-bottom: 1em;
 }
 
 header b{
@@ -18,8 +18,8 @@ footer{
 }
 
 [epub|type~="se:letter.dateline"]{
-	text-align: right;
 	font-style: italic;
+	text-align: right;
 }
 
 [epub|type~="z3998:salutation"],
