@@ -37,7 +37,7 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A Russian officer battles disillusionment and unrequited love.</dc:abstract>
+		<meta property="schema:abstract">A Russian officer battles disillusionment and unrequited love.</meta>
 		<dc:description>
 			&lt;p&gt;At the young age of twenty-two Sublieutenant Romashov has become an officer, but he’s already disillusioned with army life in the middle of nowhere, and the brutish and blood-thirsty natures of his commanders and peers. The only thing keeping him from outright depression is his growing infatuation with the wife of a fellow officer; an infatuation which, half-returned, leads inevitably towards the titular subject.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Duel&lt;/i&gt; is regarded as the highlight of &lt;a href="https://standardebooks.org/ebooks/aleksandr-kuprin"&gt;Kuprin’s&lt;/a&gt; bibliography and was praised by famous Russian authors of the period including &lt;a href="https://standardebooks.org/ebooks/anton-chekhov"&gt;Chekhov&lt;/a&gt;, Gorky, &lt;a href="https://standardebooks.org/ebooks/ivan-bunin"&gt;Bunin&lt;/a&gt; and &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy"&gt;Tolstoy&lt;/a&gt;. It was published in 1905 in the middle of the failure of the Russian army in the Russo-Japanese war and widespread social unrest. Kuprin himself had military experience as a lieutenant, which shines through in the novel’s vivid depictions of the minutiae of officer life. &lt;i&gt;The Duel&lt;/i&gt; was later adapted for both film and television in Russia. This edition is based on the 1916 translation.&lt;/p&gt;
