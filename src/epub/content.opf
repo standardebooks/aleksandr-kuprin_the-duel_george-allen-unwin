@@ -59,6 +59,7 @@
 		<link href="https://id.loc.gov/authorities/names/n50058266.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">George Allen &amp; Unwin</dc:contributor>
+		<meta property="file-as" refines="#translator">George Allen &amp; Unwin</meta>
 		<link href="https://en.wikipedia.org/wiki/Allen_%26_Unwin#George_Allen_%26_Unwin_in_the_UK" refines="#translator" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n82158534.html" refines="#translator" rel="schema:sameAs"/>
 		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
@@ -66,11 +67,12 @@
 		<dc:contributor id="artist">Ilya Repin</dc:contributor>
 		<meta property="file-as" refines="#artist">Repin, Ilya</meta>
 		<meta property="schema:alternateName" refines="#artist">Ilya Yefimovich Repin</meta>
-		<meta property="alternate-script" refines="#artist">Илья́ Ефи́мович Ре́пин</meta>
+		<meta property="alternate-script" refines="#artist">Илья Ефимович Репин</meta>
 		<link href="https://en.wikipedia.org/wiki/Ilya_Repin" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79075231.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">sp1nd</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">sp1nd</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Chuck Greif</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Greif, Chuck</meta>
